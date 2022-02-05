@@ -623,11 +623,15 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">remo-xblock</tspan></text>
       </g>
     </a>
-    <path
-       style="fill:#ebf4ff;fill-opacity:0.752941;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 177.27083,129.64583 v 55.5625 H 132.29167 V 134.9375 l 5.29167,-5.29167 z"
-       id="path1189-3"
-       sodipodi:nodetypes="cccccc" />
+    <a
+       id="a2191"
+       xlink:href="https://github.com/drhodes/answer-server">
+      <path
+         style="fill:#ebf4ff;fill-opacity:0.752941;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.27083,129.64583 v 55.5625 H 132.29167 V 134.9375 l 5.29167,-5.29167 z"
+         id="path1189-3"
+         sodipodi:nodetypes="cccccc" />
+    </a>
     <path
        style="opacity:0.162095;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 132.29167,179.91667 44.97916,0"
@@ -635,7 +639,7 @@
        sodipodi:nodetypes="cc" />
     <a
        id="a2568"
-       xlink:href="https://github.com/drhodes/auth-file-server"
+       xlink:href="https://github.com/drhodes/answer-server"
        transform="translate(185.14826)">
       <g
          id="g1679"
@@ -755,7 +759,7 @@
     </g>
     <a
        id="a2565"
-       xlink:href="https://github.com/drhodes/auth-file-server"
+       xlink:href="https://github.com/drhodes/answer-server"
        transform="translate(187.9251)">
       <image
          width="10.597575"
@@ -869,16 +873,20 @@
          x="66.135376"
          y="183.71298"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">submission-server</tspan></text>
-    <g
-       id="g981-2-08"
-       style="fill:#ebf4ff;fill-opacity:1"
-       transform="translate(81.96076,42.333337)">
-      <path
-         style="opacity:0.75285;fill:#ebf4ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -52.856593,50.27083 -0.06007,-18.520831 5.291667,-5.291667 23.812499,2e-6 0.06007,23.812496 z"
-         id="path951-5-8"
-         sodipodi:nodetypes="cccccc" />
-    </g>
+    <a
+       id="a2177"
+       xlink:href="https://github.com/drhodes/submitter-py">
+      <g
+         id="g981-2-08"
+         style="fill:#ebf4ff;fill-opacity:1"
+         transform="translate(81.96076,42.333337)">
+        <path
+           style="opacity:0.75285;fill:#ebf4ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -52.856593,50.27083 -0.06007,-18.520831 5.291667,-5.291667 23.812499,2e-6 0.06007,23.812496 z"
+           id="path951-5-8"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+    </a>
     <a
        id="a1863"
        xlink:href="https://github.com/drhodes/submitter-py">
@@ -1040,47 +1048,51 @@
        x="47.918777"
        y="39.586029"
        style="stroke-width:68.1175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="109.37037"
-       y="127.84471"
-       id="text869-9-9-0-3"><tspan
-         sodipodi:role="line"
+    <a
+       id="a2181"
+       xlink:href="https://github.com/drhodes/answer-server/blob/469b009f7a2ce2a9976e5bc11bd270790381bbf7/main.go#L64">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
          x="109.37037"
          y="127.84471"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan213" /><tspan
-         sodipodi:role="line"
-         x="109.37037"
-         y="131.16087"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan217">api/submit-answer</tspan><tspan
-         sodipodi:role="line"
-         x="109.37037"
-         y="134.47704"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan221">--</tspan><tspan
-         sodipodi:role="line"
-         x="109.37037"
-         y="137.7932"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan1482">edx-anon-id</tspan><tspan
-         sodipodi:role="line"
-         x="109.37037"
-         y="141.10936"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan211">labname</tspan><tspan
-         sodipodi:role="line"
-         x="109.37037"
-         y="144.42552"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan209">json-answers</tspan><tspan
-         sodipodi:role="line"
-         x="109.37037"
-         y="147.74168"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan203" /></text>
+         id="text869-9-9-0-3"><tspan
+           sodipodi:role="line"
+           x="109.37037"
+           y="127.84471"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           id="tspan213" /><tspan
+           sodipodi:role="line"
+           x="109.37037"
+           y="131.16087"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           id="tspan217">api/submit-answer</tspan><tspan
+           sodipodi:role="line"
+           x="109.37037"
+           y="134.47704"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           id="tspan221">--</tspan><tspan
+           sodipodi:role="line"
+           x="109.37037"
+           y="137.7932"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           id="tspan1482">edx-anon-id</tspan><tspan
+           sodipodi:role="line"
+           x="109.37037"
+           y="141.10936"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           id="tspan211">labname</tspan><tspan
+           sodipodi:role="line"
+           x="109.37037"
+           y="144.42552"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           id="tspan209">json-answers</tspan><tspan
+           sodipodi:role="line"
+           x="109.37037"
+           y="147.74168"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.65293px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           id="tspan203" /></text>
+    </a>
     <image
        width="16.933348"
        height="16.933348"
