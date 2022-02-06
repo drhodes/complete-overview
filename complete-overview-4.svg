@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="complete-overview-3.svg"
+   sodipodi:docname="complete-overview-4.svg"
    inkscape:export-filename="/home/derek/dev/x18/complete-overview/complete-overview.png"
    inkscape:export-xdpi="158.24001"
    inkscape:export-ydpi="158.24001">
@@ -306,8 +306,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8789831"
-     inkscape:cx="475.79765"
+     inkscape:zoom="1"
+     inkscape:cx="82.843106"
      inkscape:cy="374.66842"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -440,7 +440,7 @@
        id="path1167-6"
        sodipodi:nodetypes="cc" />
     <a
-       id="a1950"
+       id="a1133"
        xlink:href="https://github.com/drhodes/jupyter-answer-magic">
       <g
          id="g225"
