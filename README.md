@@ -4,5 +4,4 @@ This serves as a map of the project, locating repositories and HOWTO's
 
 A clickable version of this map can be found here:
 
-
-https://cdn.statically.io/gh/drhodes/complete-overview/main/complete-overview-6.svg
+https://cdn.statically.io/gh/jupyterhub-openedx-integration/complete-overview/main/complete-overview-6.svg
